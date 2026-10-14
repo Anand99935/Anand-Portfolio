@@ -58,7 +58,7 @@ export const PROJECTS = [
     title: "Parchoon App",
     subtitle: "Flutter Mobile App",
     description:
-      "Parchoon, a cross-platform mobile app built with Flutter at Keyutech, wired to a Node.js/Express REST backend and shipped to iOS through App Store Connect and TestFlight.",
+      "Parchoon, a cross-platform mobile app built with Flutter , wired to a Node.js/Express REST backend and shipped to iOS through App Store Connect and TestFlight.",
     tech: "Flutter, Dart, Node.js, Express.js, REST APIs, TestFlight",
     tags: ["Flutter", "Mobile", "REST APIs"],
     links: [],
