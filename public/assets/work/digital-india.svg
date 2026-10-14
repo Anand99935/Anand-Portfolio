@@ -1,0 +1,37 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="glow" cx="80%" cy="0%" r="90%">
+      <stop offset="0" stop-color="#8FA8C4" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#8FA8C4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#EDE5D8" fill-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="720" fill="#0D0B09"/>
+  <rect width="1280" height="720" fill="url(#dots)"/>
+  <rect width="1280" height="720" fill="url(#glow)"/>
+  <text x="64" y="72" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="18" fill="#8A7D6E" letter-spacing="2">DIGITAL INDIA PVT. LTD. · MAR – DEC 2024</text>
+  <circle cx="1204" cy="66" r="6" fill="#8FA8C4"/>
+
+  <g transform="translate(64,120)">
+    <rect width="1152" height="360" rx="16" fill="#161310" stroke="#2B2520" stroke-width="1.5"/>
+    <path d="M0 16 a16 16 0 0 1 16 -16 h1120 a16 16 0 0 1 16 16 v28 h-1152 z" fill="#1F1B18"/>
+    <circle cx="26" cy="22" r="6" fill="#EF4444" fill-opacity="0.8"/>
+    <circle cx="46" cy="22" r="6" fill="#EAB308" fill-opacity="0.8"/>
+    <circle cx="66" cy="22" r="6" fill="#22C55E" fill-opacity="0.8"/>
+    <text x="92" y="27" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#8A7D6E">git log --oneline --author=anand</text>
+    <text x="28" y="84" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#EDE5D8" xml:space="preserve">a41f2c9  feat(ui): responsive form layout for citizen module</text>
+    <text x="28" y="114" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#C4B8A8" xml:space="preserve">7be03d1  fix(api): handle empty response in status lookup</text>
+    <text x="28" y="144" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#EDE5D8" xml:space="preserve">c2d9e88  feat: integrate document upload REST endpoint</text>
+    <text x="28" y="174" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#C4B8A8" xml:space="preserve">19aa7f0  fix(ui): table overflow on small screens</text>
+    <text x="28" y="204" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#EDE5D8" xml:space="preserve">e6b1240  test: add smoke tests for login flow</text>
+    <text x="28" y="234" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#EDE5D8" xml:space="preserve">5d0c3ab  chore(deploy): staging build + env config</text>
+    <text x="28" y="264" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#EDE5D8" xml:space="preserve">0f8e6d2  feat(ui): pagination for application list</text>
+    <text x="28" y="294" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#C4B8A8" xml:space="preserve">b7731c4  fix: date formatting across modules</text>
+  </g>
+  <g transform="translate(64,540)">
+    <rect x="0" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.75"/><rect x="28.8" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.3"/><rect x="57.6" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.95"/><rect x="86.4" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.5"/><rect x="115.2" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.08"/><rect x="144" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.75"/><rect x="172.8" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.5"/><rect x="201.6" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.95"/><rect x="230.4" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.3"/><rect x="259.2" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.5"/><rect x="288" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.75"/><rect x="316.8" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.3"/><rect x="345.6" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.95"/><rect x="374.40000000000003" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.5"/><rect x="403.2" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.08"/><rect x="432" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.75"/><rect x="460.8" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.5"/><rect x="489.6" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.95"/><rect x="518.4" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.3"/><rect x="547.2" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.5"/><rect x="576" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.75"/><rect x="604.8000000000001" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.3"/><rect x="633.6" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.95"/><rect x="662.4" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.5"/><rect x="691.2" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.08"/><rect x="720" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.75"/><rect x="748.8000000000001" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.5"/><rect x="777.6" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.95"/><rect x="806.4" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.3"/><rect x="835.2" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.5"/><rect x="864" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.75"/><rect x="892.8000000000001" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.3"/><rect x="921.6" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.95"/><rect x="950.4" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.5"/><rect x="979.2" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.08"/><rect x="1008" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.75"/><rect x="1036.8" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.5"/><rect x="1065.6000000000001" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.95"/><rect x="1094.4" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.3"/><rect x="1123.2" y="0" width="22" height="22" rx="5" fill="#8FA8C4" fill-opacity="0.5"/>
+    <text x="0" y="62" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="16" fill="#8A7D6E">~20–30 features &amp; fixes · 9 months · Agile/Scrum</text>
+  </g>
+</svg>

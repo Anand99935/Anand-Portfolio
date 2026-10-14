@@ -1,0 +1,69 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="glow" cx="80%" cy="0%" r="90%">
+      <stop offset="0" stop-color="#C9A852" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#C9A852" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#EDE5D8" fill-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="720" fill="#0D0B09"/>
+  <rect width="1280" height="720" fill="url(#dots)"/>
+  <rect width="1280" height="720" fill="url(#glow)"/>
+  <text x="64" y="72" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="18" fill="#8A7D6E" letter-spacing="2">FLUTTER · SOCKET.IO · REAL-TIME CHAT</text>
+  <circle cx="1204" cy="66" r="6" fill="#C9A852"/>
+
+  <g transform="translate(150,96)">
+    <rect width="384" height="600" rx="44" fill="#161310" stroke="#2B2520" stroke-width="2"/>
+    <rect x="142" y="14" width="100" height="24" rx="12" fill="#0D0B09"/>
+    <g transform="translate(0,56)">
+      <circle cx="48" cy="34" r="20" fill="#8FA8C4" fill-opacity="0.3"/>
+      <circle cx="62" cy="48" r="6" fill="#AEC6A4" stroke="#161310" stroke-width="3"/>
+      <text x="80" y="32" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="17" font-weight="600" fill="#EDE5D8">Support Team</text>
+      <text x="80" y="52" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#AEC6A4">● online</text>
+      <line x1="0" x2="384" y1="76" y2="76" stroke="#2B2520"/>
+      <g transform="translate(0,96)">
+        <rect x="24" y="0" width="230" height="46" rx="18" fill="#1F1B18" fill-opacity="1"/>
+      <text x="42" y="29" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#EDE5D8">Hi! Is my KYC approved?</text>
+        <rect x="140" y="62" width="220" height="46" rx="18" fill="#C9A852" fill-opacity="0.9"/>
+      <text x="158" y="91" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#0D0B09">Checking that for you 👀</text>
+        <rect x="170" y="124" width="190" height="46" rx="18" fill="#C9A852" fill-opacity="0.9"/>
+      <text x="188" y="153" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#0D0B09">Approved ✓ just now</text>
+        <rect x="24" y="186" width="170" height="46" rx="18" fill="#1F1B18" fill-opacity="1"/>
+      <text x="42" y="215" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#EDE5D8">Awesome, thanks!</text>
+        <rect x="230" y="248" width="130" height="46" rx="18" fill="#C9A852" fill-opacity="0.9"/>
+      <text x="248" y="277" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#0D0B09">Anytime 🙌</text>
+        <rect x="24" y="314" width="86" height="40" rx="18" fill="#1F1B18"/>
+        <circle cx="50" cy="334" r="5" fill="#8A7D6E"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.2s" repeatCount="indefinite"/></circle>
+        <circle cx="67" cy="334" r="5" fill="#8A7D6E"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.2s" begin="0.2s" repeatCount="indefinite"/></circle>
+        <circle cx="84" cy="334" r="5" fill="#8A7D6E"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+        <text x="122" y="340" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#8A7D6E">typing…</text>
+      </g>
+      <rect x="20" y="468" width="290" height="48" rx="24" fill="#1F1B18"/>
+      <text x="44" y="498" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#8A7D6E">Message</text>
+      <circle cx="340" cy="492" r="24" fill="#C9A852"/>
+      <path d="M331 492 l20 -9 -7 9 7 9 z" fill="#0D0B09"/>
+    </g>
+  </g>
+  
+  <g transform="translate(640,150)">
+    <rect width="560" height="470" rx="16" fill="#161310" stroke="#2B2520" stroke-width="1.5"/>
+    <path d="M0 16 a16 16 0 0 1 16 -16 h528 a16 16 0 0 1 16 16 v28 h-560 z" fill="#1F1B18"/>
+    <circle cx="26" cy="22" r="6" fill="#EF4444" fill-opacity="0.8"/>
+    <circle cx="46" cy="22" r="6" fill="#EAB308" fill-opacity="0.8"/>
+    <circle cx="66" cy="22" r="6" fill="#22C55E" fill-opacity="0.8"/>
+    <text x="92" y="27" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#8A7D6E">socket.io — events</text>
+    <text x="28" y="84" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#AEC6A4" xml:space="preserve">→ connect        user:4821</text>
+    <text x="28" y="114" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#C4B8A8" xml:space="preserve">← presence       { online: true }</text>
+    <text x="28" y="144" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#C9A852" xml:space="preserve">← typing:start   room:support</text>
+    <text x="28" y="174" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#C4B8A8" xml:space="preserve">← message        "Hi! Is my KYC…"</text>
+    <text x="28" y="204" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#C9A852" xml:space="preserve">→ typing:start   room:support</text>
+    <text x="28" y="234" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#C4B8A8" xml:space="preserve">→ message        "Checking that…"</text>
+    <text x="28" y="264" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#8FA8C4" xml:space="preserve">→ ack            id:9f2c  12ms</text>
+    <text x="28" y="294" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#8A7D6E" xml:space="preserve">← typing:stop    room:support</text>
+    <text x="28" y="324" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#8A7D6E" xml:space="preserve"></text>
+    <text x="28" y="354" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#EDE5D8" xml:space="preserve">$ flutter build ipa --release</text>
+    <text x="28" y="384" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#AEC6A4" xml:space="preserve">✓ uploaded to TestFlight</text>
+  </g>
+</svg>

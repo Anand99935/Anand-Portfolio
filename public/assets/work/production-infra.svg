@@ -1,0 +1,38 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="glow" cx="80%" cy="0%" r="90%">
+      <stop offset="0" stop-color="#8FA8C4" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#8FA8C4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#EDE5D8" fill-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="720" fill="#0D0B09"/>
+  <rect width="1280" height="720" fill="url(#dots)"/>
+  <rect width="1280" height="720" fill="url(#glow)"/>
+  <text x="64" y="72" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="18" fill="#8A7D6E" letter-spacing="2">DIGITALOCEAN · HOSTINGER VPS · NGINX · SSL</text>
+  <circle cx="1204" cy="66" r="6" fill="#8FA8C4"/>
+
+  <g transform="translate(64,104)">
+    <rect width="1152" height="560" rx="16" fill="#161310" stroke="#2B2520" stroke-width="1.5"/>
+    <path d="M0 16 a16 16 0 0 1 16 -16 h1120 a16 16 0 0 1 16 16 v28 h-1152 z" fill="#1F1B18"/>
+    <circle cx="26" cy="22" r="6" fill="#EF4444" fill-opacity="0.8"/>
+    <circle cx="46" cy="22" r="6" fill="#EAB308" fill-opacity="0.8"/>
+    <circle cx="66" cy="22" r="6" fill="#22C55E" fill-opacity="0.8"/>
+    <text x="92" y="27" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#8A7D6E">deploy@prod-01: ~/app</text>
+    <text x="28" y="84" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#EDE5D8" xml:space="preserve">$ git pull origin main &amp;&amp; npm ci --omit=dev</text>
+    <text x="28" y="114" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#AEC6A4" xml:space="preserve">  ✓ 412 packages installed in 18.4s</text>
+    <text x="28" y="144" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#EDE5D8" xml:space="preserve">$ npm run build</text>
+    <text x="28" y="174" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#AEC6A4" xml:space="preserve">  ✓ client bundle built · 214 kB gzipped</text>
+    <text x="28" y="204" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#EDE5D8" xml:space="preserve">$ pm2 reload ecosystem.config.js --update-env</text>
+    <text x="28" y="234" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#8FA8C4" xml:space="preserve">  [PM2] api   ↺ reloaded  (0 downtime)</text>
+    <text x="28" y="264" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#EDE5D8" xml:space="preserve">$ sudo nginx -t &amp;&amp; sudo systemctl reload nginx</text>
+    <text x="28" y="294" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#AEC6A4" xml:space="preserve">  nginx: configuration file /etc/nginx/nginx.conf test is successful</text>
+    <text x="28" y="324" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#EDE5D8" xml:space="preserve">$ sudo certbot renew --dry-run</text>
+    <text x="28" y="354" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#AEC6A4" xml:space="preserve">  ✓ all simulated renewals succeeded · HTTPS ok</text>
+    <text x="28" y="384" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#EDE5D8" xml:space="preserve">$ curl -sI https://app.example.com | head -1</text>
+    <text x="28" y="414" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#C9A852" xml:space="preserve">  HTTP/2 200</text>
+    <text x="28" y="444" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#EDE5D8" xml:space="preserve">$ ▍</text>
+  </g>
+</svg>

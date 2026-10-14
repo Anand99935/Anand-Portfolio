@@ -1,0 +1,57 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="glow" cx="80%" cy="0%" r="90%">
+      <stop offset="0" stop-color="#C9A852" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#C9A852" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#EDE5D8" fill-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="720" fill="#0D0B09"/>
+  <rect width="1280" height="720" fill="url(#dots)"/>
+  <rect width="1280" height="720" fill="url(#glow)"/>
+  <text x="64" y="72" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="18" fill="#8A7D6E" letter-spacing="2">BUSINESS.MYPURSU.COM · US ⇄ INDIA SERVICES</text>
+  <circle cx="1204" cy="66" r="6" fill="#C9A852"/>
+
+  <g transform="translate(64,110)">
+    <rect width="1152" height="570" rx="16" fill="#161310" stroke="#2B2520" stroke-width="1.5"/>
+    <path d="M0 16 a16 16 0 0 1 16 -16 h1120 a16 16 0 0 1 16 16 v28 h-1152 z" fill="#1F1B18"/>
+    <circle cx="26" cy="22" r="6" fill="#EF4444" fill-opacity="0.8"/>
+    <circle cx="46" cy="22" r="6" fill="#EAB308" fill-opacity="0.8"/>
+    <circle cx="66" cy="22" r="6" fill="#22C55E" fill-opacity="0.8"/>
+    <rect x="96" y="10" width="360" height="24" rx="12" fill="#0D0B09"/>
+    <text x="114" y="27" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="13" fill="#8A7D6E">🔒 business.mypursu.com</text>
+    <text x="40" y="112" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="700" fill="#EDE5D8">MyPursu Business</text>
+    <rect x="982" y="92" width="130" height="34" rx="17" fill="#C9A852" fill-opacity="0.85"/>
+    <rect x="40" y="168" width="599.04" height="30" rx="8" fill="#EDE5D8" fill-opacity="0.85"/>
+    <rect x="40" y="212" width="437.76" height="30" rx="8" fill="#EDE5D8" fill-opacity="0.55"/>
+    <rect x="40" y="266" width="483.84" height="12" rx="6" fill="#8A7D6E" fill-opacity="0.6"/>
+    <rect x="40" y="290" width="391.68" height="12" rx="6" fill="#8A7D6E" fill-opacity="0.4"/>
+    <g transform="translate(40,420)">
+      <rect width="198.4" height="110" rx="14" fill="#1F1B18" stroke="#2B2520"/>
+      <rect x="18" y="20" width="28" height="28" rx="8" fill="#C9A852" fill-opacity="0.35"/>
+      <text x="18" y="84" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#C4B8A8">UPI &amp; bills</text>
+    </g>
+    <g transform="translate(258.4,420)">
+      <rect width="198.4" height="110" rx="14" fill="#1F1B18" stroke="#2B2520"/>
+      <rect x="18" y="20" width="28" height="28" rx="8" fill="#C9A852" fill-opacity="0.35"/>
+      <text x="18" y="84" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#C4B8A8">Travel</text>
+    </g>
+    <g transform="translate(476.8,420)">
+      <rect width="198.4" height="110" rx="14" fill="#1F1B18" stroke="#2B2520"/>
+      <rect x="18" y="20" width="28" height="28" rx="8" fill="#C9A852" fill-opacity="0.35"/>
+      <text x="18" y="84" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#C4B8A8">Pack &amp; Ship</text>
+    </g>
+    <g transform="translate(695.2,420)">
+      <rect width="198.4" height="110" rx="14" fill="#1F1B18" stroke="#2B2520"/>
+      <rect x="18" y="20" width="28" height="28" rx="8" fill="#C9A852" fill-opacity="0.35"/>
+      <text x="18" y="84" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#C4B8A8">Virtual mailbox</text>
+    </g>
+    <g transform="translate(913.6,420)">
+      <rect width="198.4" height="110" rx="14" fill="#1F1B18" stroke="#2B2520"/>
+      <rect x="18" y="20" width="28" height="28" rx="8" fill="#C9A852" fill-opacity="0.35"/>
+      <text x="18" y="84" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#C4B8A8">Concierge</text>
+    </g>
+  </g>
+</svg>

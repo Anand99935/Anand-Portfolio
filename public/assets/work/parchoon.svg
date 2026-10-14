@@ -1,0 +1,60 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="glow" cx="80%" cy="0%" r="90%">
+      <stop offset="0" stop-color="#C9A852" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#C9A852" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#EDE5D8" fill-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="720" fill="#0D0B09"/>
+  <rect width="1280" height="720" fill="url(#dots)"/>
+  <rect width="1280" height="720" fill="url(#glow)"/>
+  <text x="64" y="72" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="18" fill="#8A7D6E" letter-spacing="2">PARCHOON · FLUTTER MOBILE APP</text>
+  <circle cx="1204" cy="66" r="6" fill="#C9A852"/>
+
+  <g transform="translate(330,120)">
+    <rect width="300" height="560" rx="40" fill="#161310" stroke="#2B2520" stroke-width="2"/>
+    <rect x="110" y="14" width="80" height="20" rx="10" fill="#0D0B09"/>
+    <text x="28" y="92" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="24" font-weight="700" fill="#EDE5D8">Parchoon</text>
+    <rect x="28" y="116" width="244" height="120" rx="18" fill="#C9A852" fill-opacity="0.16"/>
+    <rect x="48" y="140" width="110" height="12" rx="6" fill="#C9A852" fill-opacity="0.7"/>
+    <rect x="48" y="170" width="170" height="26" rx="8" fill="#EDE5D8" fill-opacity="0.85"/>
+    <rect x="28" y="262" width="244" height="52" rx="14" fill="#1F1B18"/>
+    <circle cx="56" cy="288" r="12" fill="#C9A852" fill-opacity="0.5"/>
+    <text x="80" y="294" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#C4B8A8">Home</text>
+    <rect x="28" y="328" width="244" height="52" rx="14" fill="#1F1B18"/>
+    <circle cx="56" cy="354" r="12" fill="#C9A852" fill-opacity="0.5"/>
+    <text x="80" y="360" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#C4B8A8">Search</text>
+    <rect x="28" y="394" width="244" height="52" rx="14" fill="#1F1B18"/>
+    <circle cx="56" cy="420" r="12" fill="#C9A852" fill-opacity="0.5"/>
+    <text x="80" y="426" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#C4B8A8">Notifications</text>
+    <rect x="28" y="460" width="244" height="52" rx="14" fill="#1F1B18"/>
+    <circle cx="56" cy="486" r="12" fill="#C9A852" fill-opacity="0.5"/>
+    <text x="80" y="492" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#C4B8A8">Profile</text>
+    <rect x="100" y="530" width="100" height="5" rx="3" fill="#8A7D6E"/>
+  </g>
+  
+  <g transform="translate(650,120)">
+    <rect width="300" height="560" rx="40" fill="#161310" stroke="#2B2520" stroke-width="2"/>
+    <rect x="110" y="14" width="80" height="20" rx="10" fill="#0D0B09"/>
+    <text x="28" y="92" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="24" font-weight="700" fill="#EDE5D8">Parchoon</text>
+    <rect x="28" y="116" width="244" height="120" rx="18" fill="#C9A852" fill-opacity="0.16"/>
+    <rect x="48" y="140" width="110" height="12" rx="6" fill="#C9A852" fill-opacity="0.7"/>
+    <rect x="48" y="170" width="170" height="26" rx="8" fill="#EDE5D8" fill-opacity="0.85"/>
+    <rect x="28" y="262" width="244" height="52" rx="14" fill="#1F1B18"/>
+    <circle cx="56" cy="288" r="12" fill="#C9A852" fill-opacity="0.5"/>
+    <text x="80" y="294" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#C4B8A8">iOS · TestFlight</text>
+    <rect x="28" y="328" width="244" height="52" rx="14" fill="#1F1B18"/>
+    <circle cx="56" cy="354" r="12" fill="#C9A852" fill-opacity="0.5"/>
+    <text x="80" y="360" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#C4B8A8">Android</text>
+    <rect x="28" y="394" width="244" height="52" rx="14" fill="#1F1B18"/>
+    <circle cx="56" cy="420" r="12" fill="#C9A852" fill-opacity="0.5"/>
+    <text x="80" y="426" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#C4B8A8">REST APIs</text>
+    <rect x="28" y="460" width="244" height="52" rx="14" fill="#1F1B18"/>
+    <circle cx="56" cy="486" r="12" fill="#C9A852" fill-opacity="0.5"/>
+    <text x="80" y="492" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#C4B8A8">Notifications</text>
+    <rect x="100" y="530" width="100" height="5" rx="3" fill="#8A7D6E"/>
+  </g>
+</svg>

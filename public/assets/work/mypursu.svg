@@ -1,0 +1,69 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="glow" cx="80%" cy="0%" r="90%">
+      <stop offset="0" stop-color="#8FA8C4" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#8FA8C4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#EDE5D8" fill-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="720" fill="#0D0B09"/>
+  <rect width="1280" height="720" fill="url(#dots)"/>
+  <rect width="1280" height="720" fill="url(#glow)"/>
+  <text x="64" y="72" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="18" fill="#8A7D6E" letter-spacing="2">MYPURSU · UPI PAYMENTS · FLUTTER APP + WEB</text>
+  <circle cx="1204" cy="66" r="6" fill="#8FA8C4"/>
+
+  <g transform="translate(72,120)">
+    <rect width="300" height="560" rx="40" fill="#161310" stroke="#2B2520" stroke-width="2"/>
+    <rect x="110" y="14" width="80" height="20" rx="10" fill="#0D0B09"/>
+    <text x="28" y="92" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="24" font-weight="700" fill="#EDE5D8">MyPursu</text>
+    <rect x="28" y="116" width="244" height="120" rx="18" fill="#8FA8C4" fill-opacity="0.16"/>
+    <rect x="48" y="140" width="110" height="12" rx="6" fill="#8FA8C4" fill-opacity="0.7"/>
+    <rect x="48" y="170" width="170" height="26" rx="8" fill="#EDE5D8" fill-opacity="0.85"/>
+    <rect x="28" y="262" width="244" height="52" rx="14" fill="#1F1B18"/>
+    <circle cx="56" cy="288" r="12" fill="#8FA8C4" fill-opacity="0.5"/>
+    <text x="80" y="294" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#C4B8A8">Scan &amp; pay UPI</text>
+    <rect x="28" y="328" width="244" height="52" rx="14" fill="#1F1B18"/>
+    <circle cx="56" cy="354" r="12" fill="#8FA8C4" fill-opacity="0.5"/>
+    <text x="80" y="360" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#C4B8A8">Merchant wallet</text>
+    <rect x="28" y="394" width="244" height="52" rx="14" fill="#1F1B18"/>
+    <circle cx="56" cy="420" r="12" fill="#8FA8C4" fill-opacity="0.5"/>
+    <text x="80" y="426" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#C4B8A8">Rewards</text>
+    <rect x="28" y="460" width="244" height="52" rx="14" fill="#1F1B18"/>
+    <circle cx="56" cy="486" r="12" fill="#8FA8C4" fill-opacity="0.5"/>
+    <text x="80" y="492" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#C4B8A8">Agents</text>
+    <rect x="100" y="530" width="100" height="5" rx="3" fill="#8A7D6E"/>
+  </g>
+  
+  <g transform="translate(420,120)">
+    <rect width="796" height="560" rx="16" fill="#161310" stroke="#2B2520" stroke-width="1.5"/>
+    <path d="M0 16 a16 16 0 0 1 16 -16 h764 a16 16 0 0 1 16 16 v28 h-796 z" fill="#1F1B18"/>
+    <circle cx="26" cy="22" r="6" fill="#EF4444" fill-opacity="0.8"/>
+    <circle cx="46" cy="22" r="6" fill="#EAB308" fill-opacity="0.8"/>
+    <circle cx="66" cy="22" r="6" fill="#22C55E" fill-opacity="0.8"/>
+    <rect x="96" y="10" width="360" height="24" rx="12" fill="#0D0B09"/>
+    <text x="114" y="27" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="13" fill="#8A7D6E">🔒 mypursu.com</text>
+    <text x="40" y="112" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="700" fill="#EDE5D8">MyPursu</text>
+    <rect x="626" y="92" width="130" height="34" rx="17" fill="#8FA8C4" fill-opacity="0.85"/>
+    <rect x="40" y="168" width="413.92" height="30" rx="8" fill="#EDE5D8" fill-opacity="0.85"/>
+    <rect x="40" y="212" width="302.48" height="30" rx="8" fill="#EDE5D8" fill-opacity="0.55"/>
+    <rect x="40" y="266" width="334.32" height="12" rx="6" fill="#8A7D6E" fill-opacity="0.6"/>
+    <rect x="40" y="290" width="270.64000000000004" height="12" rx="6" fill="#8A7D6E" fill-opacity="0.4"/>
+    <g transform="translate(40,410)">
+      <rect width="225.33333333333334" height="110" rx="14" fill="#1F1B18" stroke="#2B2520"/>
+      <rect x="18" y="20" width="28" height="28" rx="8" fill="#8FA8C4" fill-opacity="0.35"/>
+      <text x="18" y="84" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#C4B8A8">UPI payments</text>
+    </g>
+    <g transform="translate(285.33333333333337,410)">
+      <rect width="225.33333333333334" height="110" rx="14" fill="#1F1B18" stroke="#2B2520"/>
+      <rect x="18" y="20" width="28" height="28" rx="8" fill="#8FA8C4" fill-opacity="0.35"/>
+      <text x="18" y="84" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#C4B8A8">Promotions</text>
+    </g>
+    <g transform="translate(530.6666666666667,410)">
+      <rect width="225.33333333333334" height="110" rx="14" fill="#1F1B18" stroke="#2B2520"/>
+      <rect x="18" y="20" width="28" height="28" rx="8" fill="#8FA8C4" fill-opacity="0.35"/>
+      <text x="18" y="84" font-family="'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif" font-size="15" fill="#C4B8A8">Rewards wallet</text>
+    </g>
+  </g>
+</svg>
